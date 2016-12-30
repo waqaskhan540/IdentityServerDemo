@@ -1,0 +1,8 @@
+m.vs
+m.vs/LDSCORE.Authentication.Server/v14
+msrc/IdentityServer
+msrc/IdentityServer/Configuration
+rsrc/IdentityServer/Data/Migrations/IdentityServer/ConfigurationDb
+rsrc/IdentityServer/Data/Migrations/IdentityServer/PersistedGrant
+msrc/IdentityServer/bin/Debug/netcoreapp1.0
+msrc/IdentityServer/obj/Debug/netcoreapp1.0
